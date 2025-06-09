@@ -6,7 +6,7 @@ BSc. Electronic engineer </h2>
 Senior Network Analyst | Cybersecurity Engineer |<br>
 Telecommunications Specialist | Python Automation
 </h3>
-
+<br></br>
 <p align="left"> 
 <img src="graficas/selfie.png" alt="Graph" width="472" height="475" alt="leonelpedroza" ></img> 
 </p>
@@ -21,7 +21,7 @@ If there's one thing all those years have taught me, it's this: not everyone spe
 <br>
 <br>
 
-→ Want to learn more or find some tools? Check out my stuff on GitHub
+Want to learn more or find some tools? Check out my stuff on <b> [Github](https://github.com/leonelpedroza) </b>
 <p align="left"> 
 <img src="graficas/logo-blue.png" alt="Graph" width="150" height="155" alt="leonelpedroza" ></img> 
 </p>
