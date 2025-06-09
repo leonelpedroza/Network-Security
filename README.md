@@ -22,3 +22,6 @@ If there's one thing all those years have taught me, it's this: not everyone spe
 <br>
 
 → Want to learn more or find some tools? Check out my stuff on GitHub
+<p align="left"> 
+<img src="graficas/logo-blue.png" alt="Graph" width="150" height="155" alt="leonelpedroza" ></img> 
+</p>
