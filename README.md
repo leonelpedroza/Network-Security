@@ -11,7 +11,7 @@ Telecommunications Specialist | Python Automation
 <img src="graficas/selfie.png" alt="Graph" width="472" height="475" alt="leonelpedroza" ></img> 
 </p>
 <br></br>
-So, what's my deal? I've got this personal mission, you could call it a challenge: to explain how cybersecurity works in plain English, or as I like to say, in <b><i>"muggle"</i></b> language. 
+So, what's my deal? I've got this personal mission, you could call it a challenge: to explain how computer networks and cybersecurity works in plain English, or as I like to say, in <b><i>"muggle"</i></b> language. 
 <br>
 <br>
 For over 12 years, I was a technical instructor for big corporate clients, and I can't even count the number of internal training sessions I ran for colleagues across Latin America. I’ve also had the privilege of being a university professor, teaching systems engineering to both undergrads and graduate students.
